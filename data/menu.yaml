@@ -6,9 +6,7 @@
 #   link: /categories/music/
 - name: Links
   submenu:
-    - name: LinkedIn
-      link: https://www.linkedin.com/
     - name: Twitter
-      link: https://twitter.com/
+      link: https://twitter.com/ngoktanio
 - name: About
   link: about/

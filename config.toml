@@ -1,9 +1,9 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://example.com/"  # Include trailing slash
+baseurl = "https://oke-py.com/"  # Include trailing slash
 title = "Clarity"
-author = "Jane Doe"
-copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+author = "Naoki Oketani"
+copyright = "Copyright © 2020, Naoki Oketani; all rights reserved."
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
@@ -25,10 +25,10 @@ theme = "hugo-clarity"
     xhtml = false
 
 [params]
-author = "Jane Doe"
-twitter = "@janedoe"
+author = "Naoki Oketani"
+twitter = "@ngoktanio"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
+introDescription = "Security Engineer interested in Kubernetes"
 
 # Google analytics Id
 ga_analytics = "XXXXXXXXXX"
