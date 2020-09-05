@@ -1,7 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://oke-py.com/"  # Include trailing slash
-title = "Clarity"
+title = "oke-py's blog"
 author = "Naoki Oketani"
 copyright = "Copyright © 2020, Naoki Oketani; all rights reserved."
 # canonifyurls = true
@@ -31,7 +31,7 @@ largeTwitterCard = false # set to true if you want to show a large twitter card 
 introDescription = "Security Engineer interested in Kubernetes"
 
 # Google analytics Id
-ga_analytics = "XXXXXXXXXX"
+ga_analytics = "UA-177328337-1"
 
 # limit the number of taxonomies links shown on the sidebar of each page by default.
 numberOfTagsShown = 14 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
