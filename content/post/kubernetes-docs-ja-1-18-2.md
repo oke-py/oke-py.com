@@ -2,7 +2,7 @@
 author: Naoki Oketani
 title: Files that should be updated in `dev-1.18-ja.2`
 date: 2020-09-05
-description: A brief guide to setup KaTeX
+description: Tasks for kubernetes-docs-ja `dev-1.18-ja.2` branch
 tags:
 - kubernetes-docs-ja
 ---
