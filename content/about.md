@@ -2,8 +2,8 @@
 title: "About"
 description: "I'm a security engineer interested in Kubernetes."
 date: "2020-09-08"
-aliases = ["about-me", "contact"]
-author = "Naoki Oketani"
+aliases: ["about-me", "contact"]
+author: "Naoki Oketani"
 ---
 
 ## 基本データ
