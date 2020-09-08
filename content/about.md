@@ -1,25 +1,70 @@
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-+++
+---
+title: "About"
+description: "I'm a security engineer interested in Kubernetes."
+date: "2020-09-08"
+aliases = ["about-me", "contact"]
+author = "Naoki Oketani"
+---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## 基本データ
 
-Hugo makes use of a variety of open source projects including:
+- 出生：1987年＠大阪府泉大津市
+- 出身：静岡県浜松市
+- 職業：セキュリティエンジニア
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## 好きな○○
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+### 芸能人
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+- 白石麻衣
+- 深田恭子
+- 弘中綾香
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+### 歌手
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+- 浜崎あゆみ
+- 乃木坂46
+- 西野カナ
+
+### 曲
+
+- CAN YOU CELEBRATE? / 安室奈美恵
+- サヨナラの意味 / 乃木坂46
+- MY ALL / 浜崎あゆみ
+
+### ドラマ
+
+- アンナチュラル
+- 初めて恋をした日に読む話（はじこい）
+
+### 映画
+
+- いま、会いにゆきます
+
+### 言葉
+
+能力は習慣の積分、習慣は行動の積分 from [エンジニアリング組織論への招待](https://gihyo.jp/book/2018/978-4-7741-9605-3)
+
+### 持病
+
+- うつ病
+- 過敏性腸症候群
+- 腰痛
+- 膝痛
+
+### ソーシャルアカウント
+
+- Twitter：@ngoktanio
+- GitHub：@oke-py
+- Qiita：@oke-py
+- はてなブログ：@oke-py
+- note: @oke_py
+
+### 資格
+
+- CKA: Certified Kubernetes Administrator
+- CKAD: Certified Kubernetes Application Developer
+- AWS Certified Solutions Architect – Professional
+- and so on...
+
+https://www.youracclaim.com/users/naoki-oketani/badges
