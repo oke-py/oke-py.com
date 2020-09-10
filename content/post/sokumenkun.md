@@ -3,6 +3,7 @@ author: Naoki Oketani
 title: 「そくめん君」でエムスリー西場さんとカジュアル面談した
 date: 2020-09-10
 description: 転職意思0でもよいらしいのでカジュアル面談してきました
+shareImage: "/images/thumbnail.png"
 tags:
 - interview
 ---
