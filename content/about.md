@@ -56,8 +56,6 @@ author: "Naoki Oketani"
 
 - Twitter：@ngoktanio
 - GitHub：@oke-py
-- Qiita：@oke-py
-- はてなブログ：@oke-py
 - note: @oke_py
 
 ### 資格
